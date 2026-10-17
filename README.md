@@ -22,7 +22,7 @@ Attackers change what's cheap for them: hashes, IPs, domains (Pyramid of Pain, t
 
 ### Contributions
 
-* [**CERT – The Card Game**](https://github.com/certmichelin/CERT-The-Card-Game): creator. A security awareness card game, free to print, in English and French.
+* [**CERT – The Card Game**](https://github.com/certmichelin/CERT-The-Card-Game): co-creator. A security awareness card game, free to print, in English and French.
 * [**peframe**](https://github.com/twpZero/peframe): Python 3.9 fix for the PE static analysis tool.
 
 ### Book
