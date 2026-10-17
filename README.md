@@ -40,4 +40,4 @@ Attackers change what's cheap for them: hashes, IPs, domains (Pyramid of Pain, t
 
 *Hacking is about code and creation, not destruction.*
 
-Stay safe & creative.
+TWP_Zero, Your dedicated wobbulator.
