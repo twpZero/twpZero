@@ -22,13 +22,20 @@ Attackers change what's cheap for them: hashes, IPs, domains (Pyramid of Pain, t
 
 ### Contributions
 
+* [**CERT – The Card Game**](https://github.com/certmichelin/CERT-The-Card-Game): creator. A security awareness card game, free to print, in English and French.
 * [**peframe**](https://github.com/twpZero/peframe): Python 3.9 fix for the PE static analysis tool.
+
+### Book
+
+* *[Sécurité informatique – Ethical Hacking : apprendre l'attaque pour mieux se défendre](https://www.editions-eni.fr/livre/securite-informatique-ethical-hacking-apprendre-l-attaque-pour-mieux-se-defendre-7e-edition-9782409053399)* (7th edition, Éditions ENI): author of the **Forensic** and **Malware** chapters.
 
 ### Elsewhere
 
 * Labs and training: [bit-bang.org](https://bit-bang.org/)
 * Blog posts: [Michelin IT blog](https://blogit.michelin.io/author/remi-dubourgnoux/)
-* Talks: Botconf 2022 (lightning talk)
+* Talks:
+  * [Hack-It-N 2020: adapting recommendations and defenses through the analysis of detected malicious code](https://www.youtube.com/watch?v=ITxdXWdnNaQ) (in French)
+  * Botconf 2022 (lightning talk)
 * X: [@twp_zero](https://x.com/twp_zero)
 
 *Hacking is about code and creation, not destruction.*
